@@ -18,10 +18,6 @@ IP: **185.180.2.20:27917**
 ![SourcePawn](https://img.shields.io/badge/-SourcePawn-05122A?style=flat&logo=sourceengine)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-##  GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeKometa&show_icons=true&theme=tokyonight)
-
 ## 🔗 Connect with Me
 
 - Discord: `namesicletim`
