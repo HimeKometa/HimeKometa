@@ -22,10 +22,6 @@ IP: **185.180.2.20:27917**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimeKometa&show_icons=true&theme=tokyonight)
 
-##  GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HimeKometa&theme=tokyonight)
-
 ## 🔗 Connect with Me
 
 - Discord: `namesicletim`
